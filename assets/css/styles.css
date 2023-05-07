@@ -519,7 +519,7 @@ footer .logo-ctn{
 }
 
 
-/* .intro-animation {
+.intro-animation {
     opacity: 0;
     transform: translateY(50px);
     animation: fade-in-up 1s ease-out forwards;
@@ -539,4 +539,4 @@ footer .logo-ctn{
   
   .intro-animation.show {
     animation-play-state: running;
-  } */
+  }
